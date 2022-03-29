@@ -1,0 +1,4 @@
+https://drive.google.com/file/d/1oP2nirqwRrx7Q8jlM1k8IQOfqjO433bl/view?usp=sharing
+
+I also have a task manager that I created using React. Since it is hosted on my localhost, Ill add a screenshot of the work, in this solution we can add Tasks, and set reminders.
+This aligns with what Pyramid Developers are doing, providing solutions.
